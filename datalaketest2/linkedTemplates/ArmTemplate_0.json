@@ -48,6 +48,9 @@
 						"type": "String"
 					}
 				},
+				"folder": {
+					"name": "tsets/testsetst"
+				},
 				"annotations": []
 			},
 			"dependsOn": []
